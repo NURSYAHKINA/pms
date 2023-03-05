@@ -1,2 +1,21 @@
 # pms
-Petakom Management system is a system that is developed to manage PETAKOM activities in a systematic way. The system focuses on the process of PETAKOM activities.
+Petakom Management system is a system that is developed to manage PETAKOM activities in a systematic way. The system focuses on the process of PETAKOM activities. Thus, there are six modules available in the Petakom Management System which are stated below: 
+
+•	Module 1: System need to handle student and lecturer registration
+•	Module 2: System able to manage PETAKOM activities.
+•	Module 3: System able to create yearly calendar
+•	Module 4: System also needs to generate reporting and activity proposal
+•	Module 5: System also able to manage committee election and registration.
+•	Module 6: System also able to manage PETAKOM and faculty bulletin
+
+In module 1, users are allowed to register an account in the system. Users have to fill in their information as per shown in the register form given as it is crucial to form a profile for users in the system. As of that, this module will ease them to look back at their information especially when they could not remember their information like username. registered email and password. 
+
+For module 2, which is to manage Petakom activities. The system allows students to view activities organized by Petakom. The Petakom Committee and the Coordinator are able to add new details for activities, view all the added activities, update or edit the activities and delete activities. Meanwhile, the lecturer is allowed to add new details of activities for Petakom and also view the added list of activities. The Head of Program is able to add new activities for Petakom and view the added activities.
+
+For module 3, which manages to create a yearly calendar.  The system allows the Petakom Committee and Coordinator to add the calendar information such as any event that will be held at University Malaysia Pahang. However, it can also be added from the activity form in activity pages. Moreover, both of the users are able to update and delete any added information from the system. Next, the system also provides to the Student, Dean, Lecturer, Head of Department, Coordinator and Petakom Committee to view all the added information and details from the calendar pages. 
+
+For module 4, which manages report and activity proposals. The Petakom Committee can manage the report and activity proposal. The Petakom committee can add the activity proposal by inserting the details information about the proposal. Besides that, they can view and update the proposal. Next, Petakom Committee also can delete the proposal. In addition, the Coordinator and the Head of Program can view the report and activity proposal. Besides that, Dean have the ability to view activity proposal. Dean also can approve or reject the activity proposal. 
+
+For module 5, which is to manage committee election and registration. The system allows Students to be able to vote for those candidates that have been registered. They can view the registered candidates posts and their description. Students must vote 3 candidates that have been registered to proceed. The Coordinator and the Committee can view the registered candidates and their details. They also have the ability to register or add new candidates along with their additional information and description. Both users may also edit and delete the registered candidates from the system. The system also provides the leaderboard page where both Committee and Coordinator can view and track the total votes of the registered candidates.
+
+Lastly, module 6 is to manage Petakom and faculty bulletin. The system provides the Petakom committee the ability to create new post (announcement, news, events, advertisement, public information) on the system bulletin board. The bulletin board have two category which is first, for Petakom related information and second is all information regarding Faculty of Computing. Next, it also includes the ability to upload picture, videos and link regarding to the post. The committee also have the ability to edit and delete the created post. This post can be view by all users of the system with the extra function such as search, filter and sort the bulletin post. In addition, other user (dean, coordinator, head of program, lecturer, student) can add and delete comment on each created post. They can also bookmark their chosen bulleting post to view later.
